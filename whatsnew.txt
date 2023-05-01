@@ -1,0 +1,3 @@
+4.047
+misc: updated ziparchive (4.6.9) and unrar (6.20.3)
+misc: show warning when trimming removed a whitespace rom names with subfolders
